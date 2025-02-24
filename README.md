@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **asmapa122002@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact - **My code runs faster than my brain processes recursion... until I hit an infinite loop. Then we both crash. 😵💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
